@@ -42,7 +42,8 @@ if (x.strftime("%x"))>(g.strftime("%x")):
  sys.exit(0)
 os.system("clear")
 import time
-yso = input(' psword --) ')import requests,random,json,threading,datetime
+yso = input(' psword --) ')
+import requests,random,json,threading,datetime
 from user_agent import generate_user_agent
 #X = '\033[4;33m' #اصفر
 #F = '\033[2;32m'
